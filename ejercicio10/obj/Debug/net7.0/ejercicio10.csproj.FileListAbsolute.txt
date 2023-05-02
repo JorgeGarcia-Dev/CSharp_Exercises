@@ -1,0 +1,15 @@
+/Users/georgegarcia/Documents/C#/ejercicio10/bin/Debug/net7.0/ejercicio10
+/Users/georgegarcia/Documents/C#/ejercicio10/bin/Debug/net7.0/ejercicio10.deps.json
+/Users/georgegarcia/Documents/C#/ejercicio10/bin/Debug/net7.0/ejercicio10.runtimeconfig.json
+/Users/georgegarcia/Documents/C#/ejercicio10/bin/Debug/net7.0/ejercicio10.dll
+/Users/georgegarcia/Documents/C#/ejercicio10/bin/Debug/net7.0/ejercicio10.pdb
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.csproj.AssemblyReference.cache
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.AssemblyInfoInputs.cache
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.AssemblyInfo.cs
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.csproj.CoreCompileInputs.cache
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.dll
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/refint/ejercicio10.dll
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.pdb
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ejercicio10.genruntimeconfig.cache
+/Users/georgegarcia/Documents/C#/ejercicio10/obj/Debug/net7.0/ref/ejercicio10.dll
