@@ -1,4 +1,4 @@
-#List Of Exercises with C_Sharp
+# List Of Exercises with C#
 
 ---
 
