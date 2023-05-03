@@ -1,8 +1,8 @@
-# List Of Exercises with C#
+# Lista de ejercicios con C#
 
 ---
 
-1. **Exercise 1:**
+1. **Ejercicio 1:**
    
     Escribir un programa que solicite al usuario que ingrese su nombre. El nombre se debe almacenar en una variable llamada nombre.
     A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, [usuario]”,
@@ -10,7 +10,7 @@
 
 ---
 
-2. **Exercise 2:**
+2. **Ejercicio 2:**
    
     Escribir un programa que solicite al usuario ingresar un número con decimales y almacenalo en una variable.
     A continuación, el programa debe solicitar al usuario que ingrese un número entero y guardarlo en otra variable.
@@ -19,7 +19,7 @@
 
 ---
 
-3. **Exercise 3:**
+3. **Ejercicio 3:**
    
     Escribir un programa que solicite al usuario dos números y los almacene en dos variables.
     En otra variable, almacená el resultado de la suma de esos dos números y luego mostrá ese resultado en pantalla.
@@ -28,14 +28,14 @@
 
 ---
 
-4. **Exercise 4:**
+4. **Ejercicio 4:**
    
     Escribir un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta
     y la cantidad de litros de combustible que consumió durante ese recorrido. Mostrar al usuario el consumo de combustible por kilómetro.
 
 ---
 
-5. **Exercise 5:**
+5. **Ejercicio 5:**
    
     Escribir un programa para solicitar al usuario el ingreso de un número entero
     y que luego imprima un valor de verdad dependiendo de si el número es par o no.
@@ -43,20 +43,20 @@
 
 ---
 
-6. **Exercise 6:**
+6. **Ejercicio 6:**
    
     Escribir un programa que solicite al usuario el ingreso de dos números diferentes
     y muestre en pantalla el mayor de los dos.
 
 ---
 
-7. **Exercise 7:**
+7. **Ejercicio 7:**
    
     Escribir un programa para solicitar al usuario 3 números y mostrar en pantalla el menor de los 3.
 
 ---
 
-8. **Exercise 8:**
+8. **Ejercicio 8:**
    
     Dada una cadena de texto, comprobar si es un palíndromo o no.
     Los palíndromos son palabras que se leen igual de izquierda a derecha que de derecha a izquierda.
@@ -64,14 +64,14 @@
 
 ---
 
-9. **Exercise 9:**
+9. **Ejercicio 9:**
    
     Escribir un programa que solicite al usuario una letra y, si es vocal, muestre el mensaje "Es vocal".
     en caso de no ser vocal, muestre el mensaje "No es vocal".
 
 ---
 
-10. **Exercise 10:**
+10. **Ejercicio 10:**
    
     Escribir un programa que sume, y multiplique los elementos de una lista de enteros.
     Por ejemplo: la suma de los elementos en la lista {1,2,3,4} es 10 y la multiplicación es 24.
